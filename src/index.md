@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Let's organise
+title: Let's Organise
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
